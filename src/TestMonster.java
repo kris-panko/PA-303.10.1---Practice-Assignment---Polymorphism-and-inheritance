@@ -14,5 +14,6 @@ public class TestMonster {
 
         Monster m4 = new Monster("u2u2");
         System.out.println(m4.attack());
+
     }
 }
